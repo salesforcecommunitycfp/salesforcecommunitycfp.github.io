@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Salesforce CFP Calendar"
-description:  "One Salesforce community member's best effort of keeping track of open and upcoming calls for presentations"
+description:  "A Salesforce community volunteer-driven effort to keep track of open and upcoming calls for presentations"
 ---
 
 _Community conferences, offical events, World Tour days, etc. all welcome._
