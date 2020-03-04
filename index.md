@@ -10,8 +10,10 @@ _Community conferences, offical events, World Tour days, etc. all welcome._
 
 | **Event** | **Event Dates** | **Location** | **CFP Opens** | **CFP Closes** | **Decisions Made _(approx.)_** | **CFP Form Link** | **Date Info Updated** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| [Virtual Dreamin'](http://virtualdreamin.com/){:target="_blank"} | May. 16-17, 2020 | Online | Open now | March 13, 2020 | ~ Late March | [Submit your idea](https://sessionize.com/virtualdreamin/){:target="_blank"} | March 4, 2020 |
 | [WITNess Success](http://witnesssuccess.com/){:target="_blank"} | Jul. 24-25, 2020 | Minneapolis, MN, United States | March 2, 2020 | April 11, 2020 | _(unk.)_ | [Submit your idea](https://docs.google.com/forms/d/e/1FAIpQLSfXlSXUuCGCAHaTvt6RSJQWdVM2VGPkBywPioKYrUmWaK_XUw/viewform){:target="_blank"} | March 4, 2020 |
 | [Northeast Dreamin'](https://northeastdreamin.com/){:target="_blank"} | Sep. 14-15, 2020 | Providence, RI, United States | Open now | April 20, 2020 | ~ Late May | [Submit your idea](https://northeastdreamin.com/call-for-proposals/){:target="_blank"} | March 4, 2020 |
+
 
 ## Want to help?
 
