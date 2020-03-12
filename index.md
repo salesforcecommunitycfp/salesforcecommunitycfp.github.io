@@ -15,6 +15,7 @@ _Community conferences, offical events, World Tour days, etc. all welcome._
 | [Forcelandia](http://forcelandia.com/){:target="_blank"} | Jul. 15-16, 2020 | Portland, OR, United States | Open now | Rolling | Rolling | [Submit your idea](http://forcelandia.com/2020-call-for-speakers/){:target="_blank"} | March 4, 2020 |
 | [Texas Dreamin'](http://texasdreamin.org/){:target="_blank"} | Jul. 16-17, 2020 | Austin, TX, United States | Open now | March 15, 2020 | _(unk.)_ | [Submit your idea](https://docs.google.com/forms/u/2/d/e/1FAIpQLSeB-j55xkaE0l6syymXou_71v1lZwNjUhfmMEg1c5vO1gjFtQ/viewform?platform=hootsuite){:target="_blank"} | March 4, 2020 |
 | [Big Sky Dreamin'](https://www.bigskydreamin.com/){:target="_blank"} | Jul. 23, 2020 | Bozeman, MT, United States | Open now | _(unk.)_ | May 2020 | [Submit your idea](http://go.bigskydreamin.com/speak){:target="_blank"} | March 4, 2020 |
+| [Midwest Dreamin'](https://www.midwestdreamin.com/){:target="_blank"} | Jul. 22-24, 2020 | Minneapolis, MN, United States | Feb. 1, 2020 | Mar. 15, 2020<br/>_(orig. Feb. 29, 2020)_ | _(unk.)_ | [Submit your idea](https://www.midwestdreamin.com/callforspeakers/){:target="_blank"} | March 12, 2020 |
 | [WITNess Success](http://witnesssuccess.com/){:target="_blank"} | Jul. 24-25, 2020 | Minneapolis, MN, United States | March 2, 2020 | April 11, 2020 | _(unk.)_ | [Submit your idea](https://docs.google.com/forms/d/e/1FAIpQLSfXlSXUuCGCAHaTvt6RSJQWdVM2VGPkBywPioKYrUmWaK_XUw/viewform){:target="_blank"} | March 4, 2020 |
 | [Norcal Dreamin' Presents Tahoe Dreamin'](https://www.norcaldreamin.com/){:target="_blank"} | Aug. 6-7, 2020 | South Lake Tahoe, CA, United States | Open now | May 8, 2020 | _(unk.)_ | [Submit your idea](https://www.norcaldreamin.com/call-for-speakers-tahoe20/){:target="_blank"} | March 4, 2020 |
 | [Northeast Dreamin'](https://northeastdreamin.com/){:target="_blank"} | Sep. 14-15, 2020 | Providence, RI, United States | Open now | April 20, 2020 | ~ Late May | [Submit your idea](https://northeastdreamin.com/call-for-proposals/){:target="_blank"} | March 4, 2020 |
@@ -39,7 +40,6 @@ Perhaps you can guess when to keep your eyes open based on these past windows.
 | **Event** | **Event Dates** | **Location** | **CFP Opened** | **CFP Closed** | **Decisions Made _(approx.)_** |
 | --- | --- | --- | --- | --- | --- |
 | [Banff Dreamin'](https://www.banffdreamin.com/){:target="_blank"} | Nov. 20, 2020 (rescheduled) | Banff, AB, Canada | _(unk.)_ | Jan. 14, 2020 | _(unk.)_ |
-| [Midwest Dreamin'](https://www.midwestdreamin.com/){:target="_blank"} | Jul. 22-24, 2020 | Minneapolis, MN, United States | Feb. 1, 2020 | Feb. 29, 2020 | _(unk.)_ |
 | [PhillyForce presents Mid Atlantic Dreamin'](https://midatlanticdreamin.com/){:target="_blank"} | May 6, 2020 | Philadelphia, PA | _(unk.)_ | Feb. 24, 2020 | _(unk.)_ |
 | [True North Dreamin'](https://www.truenorthdreamin.com/){:target="_blank"} | Apr. 23-24, 2020 | Vancouver, BC, Canada | _(unk.)_ | Jan. 17, 2020 | _(unk.)_ |
 | Salesforce World Tour Boston | Apr. 2, 2020| Boston, MA, United States | Feb. 14, 2020 | _(unk.)_ | March 10, 2020 |
